@@ -5,4 +5,6 @@ Queries-and-Reports
 Know-your-Data-I                     
 Know-your-Data-II    
 Security-and-Access
+Manipulating-Data-Within-a-Database  
+Types-of-Databases
 
